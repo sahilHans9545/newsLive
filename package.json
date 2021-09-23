@@ -1,6 +1,6 @@
 {
-  "name": "newsapp",
   "homepage": "https://sahilHans9545.github.io/newsLive",
+  "name": "newsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
